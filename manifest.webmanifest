@@ -1,0 +1,20 @@
+{
+  "name": "Job Watcher",
+  "short_name": "Job Watcher",
+  "description": "Daily watch of financial and data analyst postings at 20 employers.",
+  "id": "./",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f9f9f7",
+  "theme_color": "#fcfcfb",
+  "icons": [
+    { "src": "assets/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "assets/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "assets/icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "shortcuts": [
+    { "name": "Browse postings", "url": "./browse.html" },
+    { "name": "Market report", "url": "./market.html" }
+  ]
+}
