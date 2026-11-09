@@ -10,7 +10,9 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 DATA_DIR = ROOT / "data"
 
-USER_AGENT = "job-watcher/1.0 (+https://github.com/chuckstew460-collab/job-watcher)"
+REPO_URL = "https://github.com/chuckstew460-collab/job-watcher"
+SITE_URL = "https://chuckstew460-collab.github.io/job-watcher/"
+USER_AGENT = f"job-watcher/1.0 (+{REPO_URL})"
 
 # A board that lists more than this many postings must be read with a search term.
 MAX_UNFILTERED = 5000

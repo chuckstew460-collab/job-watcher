@@ -262,7 +262,7 @@ def run(data_dir: Path = config.DATA_DIR, sources: list[dict] | None = None,
     results = sorted(kept + [r for r, _ in outcomes], key=lambda r: order.get(r["name"], len(order)))
     log = {"run_time": run_time, "date": day, "sources": results}
     log_path.parent.mkdir(parents=True, exist_ok=True)
-    log_path.write_text(json.dumps(log, indent=2) + "\n", encoding="utf-8")
+    log_path.write_text(json.dumps(log, indent=2) + "\n", encoding="utf-8", newline="\n")
     return log
 
 
