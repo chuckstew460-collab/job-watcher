@@ -1,0 +1,4 @@
+# Keep LF everywhere so the history build is byte-identical on Windows and Linux.
+* text=auto eol=lf
+*.gz binary
+*.png binary
