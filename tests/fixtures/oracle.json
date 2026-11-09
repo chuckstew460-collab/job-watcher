@@ -1,0 +1,51 @@
+{
+ "source": "jpmorgan",
+ "employer": "JPMorgan Chase",
+ "ats": "oracle",
+ "board": "",
+ "board_url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001",
+ "search": "analyst",
+ "fetched_at": "2026-11-09T13:05:00Z",
+ "responses": [
+  {
+   "request": {
+    "method": "GET",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions",
+    "params": {
+     "onlyData": "true",
+     "expand": "requisitionList",
+     "finder": "findReqs;siteNumber=CX_1001,limit=100,offset=0,sortBy=POSTING_DATES_DESC,keyword=\"analyst\""
+    }
+   },
+   "json": {
+    "items": [
+     {
+      "SearchId": 1,
+      "TotalJobsCount": 2,
+      "requisitionList": [
+       {
+        "Id": "210690282",
+        "Title": "Asset Management - Data Analyst",
+        "PostedDate": "2026-11-09",
+        "PrimaryLocation": "New York, NY, United States",
+        "JobFamily": "Analysts",
+        "JobFunction": "Data & Analytics",
+        "ShortDescriptionStr": "..."
+       },
+       {
+        "Id": "210788771",
+        "Title": "Client Advisor",
+        "PostedDate": "2026-10-07",
+        "PrimaryLocation": "Singapore, Singapore",
+        "JobFamily": "Client Management",
+        "JobFunction": null
+       }
+      ]
+     }
+    ],
+    "count": 1,
+    "hasMore": false
+   }
+  }
+ ]
+}

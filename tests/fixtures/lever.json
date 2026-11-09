@@ -1,0 +1,51 @@
+{
+ "source": "palantir",
+ "employer": "Palantir",
+ "ats": "lever",
+ "board": "palantir",
+ "board_url": "https://jobs.lever.co/palantir",
+ "search": "",
+ "fetched_at": "2026-11-09T13:05:00Z",
+ "responses": [
+  {
+   "request": {
+    "method": "GET",
+    "url": "https://api.lever.co/v0/postings/palantir",
+    "params": {
+     "mode": "json"
+    }
+   },
+   "json": [
+    {
+     "id": "6ed76ce8-4156-4b60-b120-403538bd66cd",
+     "text": "Financial Analyst",
+     "categories": {
+      "commitment": "Full-time",
+      "location": "Denver, CO",
+      "team": "Finance",
+      "department": "Business Operations",
+      "allLocations": [
+       "Denver, CO"
+      ]
+     },
+     "createdAt": 1762650000000,
+     "descriptionPlain": "Long text...",
+     "hostedUrl": "https://jobs.lever.co/palantir/6ed76ce8-4156-4b60-b120-403538bd66cd",
+     "applyUrl": "https://jobs.lever.co/palantir/6ed76ce8-4156-4b60-b120-403538bd66cd/apply"
+    },
+    {
+     "id": "2cd25c0b-088d-4a5c-9b96-1165a33fe652",
+     "text": "Backend Software Engineer",
+     "categories": {
+      "commitment": "Full-time",
+      "location": "London, United Kingdom",
+      "team": "Dev"
+     },
+     "createdAt": 1775467200000,
+     "descriptionPlain": "Long text...",
+     "hostedUrl": "https://jobs.lever.co/palantir/2cd25c0b-088d-4a5c-9b96-1165a33fe652"
+    }
+   ]
+  }
+ ]
+}

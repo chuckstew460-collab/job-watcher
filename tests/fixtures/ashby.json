@@ -1,0 +1,45 @@
+{
+ "source": "ramp",
+ "employer": "Ramp",
+ "ats": "ashby",
+ "board": "ramp",
+ "board_url": "https://jobs.ashbyhq.com/ramp",
+ "search": "",
+ "fetched_at": "2026-11-09T13:05:00Z",
+ "responses": [
+  {
+   "request": {
+    "method": "GET",
+    "url": "https://api.ashbyhq.com/posting-api/job-board/ramp"
+   },
+   "json": {
+    "apiVersion": "1",
+    "jobs": [
+     {
+      "id": "34413f8d-26bf-4bbc-8ade-eb309a0e2245",
+      "title": " Security Engineer, Cloud",
+      "department": "Engineering",
+      "team": "Backend",
+      "employmentType": "FullTime",
+      "location": "New York, NY (HQ)",
+      "publishedAt": "2026-04-07T17:12:35.753+00:00",
+      "isListed": true,
+      "jobUrl": "https://jobs.ashbyhq.com/ramp/34413f8d-26bf-4bbc-8ade-eb309a0e2245",
+      "descriptionPlain": "Long text..."
+     },
+     {
+      "id": "9a1f0c2e-0000-4000-8000-000000000001",
+      "title": "Strategic Finance Analyst",
+      "department": "Finance",
+      "team": "FP&A",
+      "employmentType": "FullTime",
+      "location": "Remote (US)",
+      "publishedAt": "2026-11-09T23:30:00.000-05:00",
+      "isListed": true,
+      "jobUrl": "https://jobs.ashbyhq.com/ramp/9a1f0c2e-0000-4000-8000-000000000001"
+     }
+    ]
+   }
+  }
+ ]
+}

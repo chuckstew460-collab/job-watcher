@@ -1,0 +1,103 @@
+{
+ "source": "bank",
+ "employer": "Example Bank",
+ "ats": "workday",
+ "board": "",
+ "board_url": "https://bank.wd1.myworkdayjobs.com/External",
+ "search": "",
+ "fetched_at": "2026-11-09T13:05:00Z",
+ "responses": [
+  {
+   "request": {
+    "method": "POST",
+    "url": "https://bank.wd1.myworkdayjobs.com/wday/cxs/bank/External/jobs",
+    "body": {
+     "appliedFacets": {},
+     "limit": 20,
+     "offset": 0,
+     "searchText": ""
+    }
+   },
+   "json": {
+    "total": 5,
+    "facets": [
+     {
+      "facetParameter": "locations",
+      "values": []
+     }
+    ],
+    "userAuthenticated": false,
+    "jobPostings": [
+     {
+      "title": "Senior Financial Analyst",
+      "externalPath": "/job/Charlotte-NC/Senior-Financial-Analyst_R-12345",
+      "locationsText": "Charlotte, NC",
+      "postedOn": "Posted Today",
+      "bulletFields": [
+       "R-12345"
+      ]
+     },
+     {
+      "title": "Data Analyst",
+      "externalPath": "/job/New-York-NY/Data-Analyst_R-22222-1",
+      "locationsText": "3 Locations",
+      "postedOn": "Posted 3 Days Ago",
+      "bulletFields": [
+       "R-22222"
+      ]
+     },
+     {
+      "title": "Teller",
+      "externalPath": "/job/New-York-NY/Teller_R-33333",
+      "locationsText": "New York, NY",
+      "postedOn": "Posted 30+ Days Ago",
+      "bulletFields": [
+       "R-33333"
+      ]
+     },
+     {
+      "bulletFields": [
+       "R-44444"
+      ]
+     }
+    ]
+   }
+  },
+  {
+   "request": {
+    "method": "POST",
+    "url": "https://bank.wd1.myworkdayjobs.com/wday/cxs/bank/External/jobs",
+    "body": {
+     "appliedFacets": {},
+     "limit": 20,
+     "offset": 20,
+     "searchText": ""
+    }
+   },
+   "json": {
+    "total": 5,
+    "userAuthenticated": false,
+    "jobPostings": [
+     {
+      "title": "Senior Financial Analyst",
+      "externalPath": "/job/Charlotte-NC/Senior-Financial-Analyst_R-12345",
+      "locationsText": "Charlotte, NC",
+      "postedOn": "Posted Today",
+      "bulletFields": [
+       "R-12345"
+      ]
+     },
+     {
+      "title": "Branch Manager",
+      "externalPath": "/job/Austin-TX/Branch-Manager_R-55555",
+      "locationsText": "2 Locations",
+      "postedOn": "Posted Yesterday",
+      "bulletFields": [
+       "R-55555"
+      ]
+     }
+    ]
+   }
+  }
+ ]
+}

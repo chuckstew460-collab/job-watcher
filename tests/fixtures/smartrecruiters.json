@@ -1,0 +1,82 @@
+{
+ "source": "experian",
+ "employer": "Experian",
+ "ats": "smartrecruiters",
+ "board": "Experian",
+ "board_url": "https://jobs.smartrecruiters.com/Experian",
+ "search": "",
+ "fetched_at": "2026-11-09T13:05:00Z",
+ "responses": [
+  {
+   "request": {
+    "method": "GET",
+    "url": "https://api.smartrecruiters.com/v1/companies/Experian/postings",
+    "params": {
+     "limit": 100,
+     "offset": 0
+    }
+   },
+   "json": {
+    "offset": 0,
+    "limit": 100,
+    "totalFound": 2,
+    "content": [
+     {
+      "id": "744000158367609",
+      "name": "Data & Reporting Analyst",
+      "refNumber": "REF1",
+      "company": {
+       "identifier": "Experian",
+       "name": "Experian"
+      },
+      "releasedDate": "2026-10-28T09:00:00.000Z",
+      "location": {
+       "city": "London",
+       "region": "London",
+       "country": "gb",
+       "remote": false,
+       "fullLocation": "LONDON, LONDON, United Kingdom"
+      },
+      "department": {
+       "id": "1",
+       "label": "Sales & Business Development"
+      }
+     }
+    ]
+   }
+  },
+  {
+   "request": {
+    "method": "GET",
+    "url": "https://api.smartrecruiters.com/v1/companies/Experian/postings",
+    "params": {
+     "limit": 100,
+     "offset": 100
+    }
+   },
+   "json": {
+    "offset": 100,
+    "limit": 100,
+    "totalFound": 2,
+    "content": [
+     {
+      "id": "744000160689629",
+      "name": "Product Operations Coordinator",
+      "refNumber": "REF2",
+      "company": {
+       "identifier": "Experian",
+       "name": "Experian"
+      },
+      "releasedDate": "2026-11-09T18:17:19.039Z",
+      "location": {
+       "city": "Charlotte",
+       "region": "North Carolina",
+       "country": "us",
+       "remote": false
+      }
+     }
+    ]
+   }
+  }
+ ]
+}
