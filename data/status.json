@@ -1,0 +1,176 @@
+{
+  "run_time": "2026-11-09T19:37:47Z",
+  "run_date": "2026-11-09",
+  "first_run_date": "2026-11-09",
+  "days_with_success": 1,
+  "open": 15626,
+  "new_today": 0,
+  "removed_today": 0,
+  "in_role": {
+    "open": 197,
+    "new_today": 0,
+    "removed_today": 0
+  },
+  "sources": [
+    {
+      "name": "jpmorgan",
+      "employer": "JPMorgan Chase",
+      "ats": "oracle",
+      "ok": true,
+      "count": 1003,
+      "error": ""
+    },
+    {
+      "name": "bank-of-america",
+      "employer": "Bank of America",
+      "ats": "workday",
+      "ok": true,
+      "count": 1981,
+      "error": ""
+    },
+    {
+      "name": "wells-fargo",
+      "employer": "Wells Fargo",
+      "ats": "workday",
+      "ok": true,
+      "count": 1536,
+      "error": ""
+    },
+    {
+      "name": "morgan-stanley",
+      "employer": "Morgan Stanley",
+      "ats": "workday",
+      "ok": true,
+      "count": 1215,
+      "error": ""
+    },
+    {
+      "name": "capital-one",
+      "employer": "Capital One",
+      "ats": "workday",
+      "ok": true,
+      "count": 2043,
+      "error": ""
+    },
+    {
+      "name": "us-bank",
+      "employer": "U.S. Bank",
+      "ats": "workday",
+      "ok": true,
+      "count": 1225,
+      "error": ""
+    },
+    {
+      "name": "state-street",
+      "employer": "State Street",
+      "ats": "workday",
+      "ok": true,
+      "count": 1162,
+      "error": ""
+    },
+    {
+      "name": "northern-trust",
+      "employer": "Northern Trust",
+      "ats": "workday",
+      "ok": true,
+      "count": 641,
+      "error": ""
+    },
+    {
+      "name": "fidelity",
+      "employer": "Fidelity Investments",
+      "ats": "workday",
+      "ok": true,
+      "count": 854,
+      "error": ""
+    },
+    {
+      "name": "blackrock",
+      "employer": "BlackRock",
+      "ats": "workday",
+      "ok": true,
+      "count": 274,
+      "error": ""
+    },
+    {
+      "name": "mastercard",
+      "employer": "Mastercard",
+      "ats": "workday",
+      "ok": true,
+      "count": 927,
+      "error": ""
+    },
+    {
+      "name": "sp-global",
+      "employer": "S&P Global",
+      "ats": "workday",
+      "ok": true,
+      "count": 347,
+      "error": ""
+    },
+    {
+      "name": "stripe",
+      "employer": "Stripe",
+      "ats": "greenhouse",
+      "ok": true,
+      "count": 771,
+      "error": ""
+    },
+    {
+      "name": "coinbase",
+      "employer": "Coinbase",
+      "ats": "greenhouse",
+      "ok": true,
+      "count": 283,
+      "error": ""
+    },
+    {
+      "name": "robinhood",
+      "employer": "Robinhood",
+      "ats": "greenhouse",
+      "ok": true,
+      "count": 154,
+      "error": ""
+    },
+    {
+      "name": "point72",
+      "employer": "Point72",
+      "ats": "greenhouse",
+      "ok": true,
+      "count": 199,
+      "error": ""
+    },
+    {
+      "name": "ramp",
+      "employer": "Ramp",
+      "ats": "ashby",
+      "ok": true,
+      "count": 174,
+      "error": ""
+    },
+    {
+      "name": "plaid",
+      "employer": "Plaid",
+      "ats": "ashby",
+      "ok": true,
+      "count": 140,
+      "error": ""
+    },
+    {
+      "name": "palantir",
+      "employer": "Palantir",
+      "ats": "lever",
+      "ok": true,
+      "count": 304,
+      "error": ""
+    },
+    {
+      "name": "experian",
+      "employer": "Experian",
+      "ats": "smartrecruiters",
+      "ok": true,
+      "count": 393,
+      "error": ""
+    }
+  ]
+}
