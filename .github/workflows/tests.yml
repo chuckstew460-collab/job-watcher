@@ -1,0 +1,39 @@
+name: Tests
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+  # Commits made by the daily pipeline do not trigger `push` workflows,
+  # so the tests also run after every pipeline run.
+  workflow_run:
+    workflows: ["Daily pipeline"]
+    types: [completed]
+
+jobs:
+  pytest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Run the test suite
+        run: python -m pytest -v
+
+  rebuild:
+    name: history.csv rebuilds from the raw files
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Rebuild and compare with the committed file
+        run: |
+          python -m watcher.build
+          git diff --exit-code --stat -- data/history.csv
