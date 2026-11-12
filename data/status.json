@@ -1,15 +1,15 @@
 {
-  "run_time": "2026-11-11T19:33:57Z",
-  "run_date": "2026-11-11",
+  "run_time": "2026-11-12T19:52:14Z",
+  "run_date": "2026-11-12",
   "first_run_date": "2026-11-09",
-  "days_with_success": 3,
-  "open": 15824,
-  "new_today": 547,
-  "removed_today": 437,
+  "days_with_success": 4,
+  "open": 15702,
+  "new_today": 431,
+  "removed_today": 593,
   "in_role": {
-    "open": 217,
-    "new_today": 13,
-    "removed_today": 2
+    "open": 218,
+    "new_today": 7,
+    "removed_today": 6
   },
   "sources": [
     {
@@ -17,7 +17,7 @@
       "employer": "JPMorgan Chase",
       "ats": "oracle",
       "ok": true,
-      "count": 1021,
+      "count": 1017,
       "error": ""
     },
     {
@@ -25,7 +25,7 @@
       "employer": "Bank of America",
       "ats": "workday",
       "ok": true,
-      "count": 2015,
+      "count": 2004,
       "error": ""
     },
     {
@@ -33,7 +33,7 @@
       "employer": "Wells Fargo",
       "ats": "workday",
       "ok": true,
-      "count": 1578,
+      "count": 1528,
       "error": ""
     },
     {
@@ -41,7 +41,7 @@
       "employer": "Morgan Stanley",
       "ats": "workday",
       "ok": true,
-      "count": 1209,
+      "count": 1190,
       "error": ""
     },
     {
@@ -49,7 +49,7 @@
       "employer": "Capital One",
       "ats": "workday",
       "ok": true,
-      "count": 2066,
+      "count": 2063,
       "error": ""
     },
     {
@@ -57,7 +57,7 @@
       "employer": "U.S. Bank",
       "ats": "workday",
       "ok": true,
-      "count": 1240,
+      "count": 1238,
       "error": ""
     },
     {
@@ -65,7 +65,7 @@
       "employer": "State Street",
       "ats": "workday",
       "ok": true,
-      "count": 1191,
+      "count": 1196,
       "error": ""
     },
     {
@@ -73,7 +73,7 @@
       "employer": "Northern Trust",
       "ats": "workday",
       "ok": true,
-      "count": 660,
+      "count": 648,
       "error": ""
     },
     {
@@ -81,7 +81,7 @@
       "employer": "Fidelity Investments",
       "ats": "workday",
       "ok": true,
-      "count": 865,
+      "count": 882,
       "error": ""
     },
     {
@@ -89,7 +89,7 @@
       "employer": "BlackRock",
       "ats": "workday",
       "ok": true,
-      "count": 291,
+      "count": 293,
       "error": ""
     },
     {
@@ -97,7 +97,7 @@
       "employer": "Mastercard",
       "ats": "workday",
       "ok": true,
-      "count": 898,
+      "count": 877,
       "error": ""
     },
     {
@@ -105,7 +105,7 @@
       "employer": "S&P Global",
       "ats": "workday",
       "ok": true,
-      "count": 357,
+      "count": 344,
       "error": ""
     },
     {
@@ -113,7 +113,7 @@
       "employer": "Stripe",
       "ats": "greenhouse",
       "ok": true,
-      "count": 780,
+      "count": 783,
       "error": ""
     },
     {
@@ -121,7 +121,7 @@
       "employer": "Coinbase",
       "ats": "greenhouse",
       "ok": true,
-      "count": 277,
+      "count": 272,
       "error": ""
     },
     {
@@ -137,7 +137,7 @@
       "employer": "Point72",
       "ats": "greenhouse",
       "ok": true,
-      "count": 201,
+      "count": 199,
       "error": ""
     },
     {
@@ -145,7 +145,7 @@
       "employer": "Ramp",
       "ats": "ashby",
       "ok": true,
-      "count": 176,
+      "count": 177,
       "error": ""
     },
     {
@@ -161,7 +161,7 @@
       "employer": "Palantir",
       "ats": "lever",
       "ok": true,
-      "count": 303,
+      "count": 301,
       "error": ""
     },
     {
@@ -169,7 +169,7 @@
       "employer": "Experian",
       "ats": "smartrecruiters",
       "ok": true,
-      "count": 398,
+      "count": 392,
       "error": ""
     }
   ]
