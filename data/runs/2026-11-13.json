@@ -1,0 +1,226 @@
+{
+  "run_time": "2026-11-13T19:38:06Z",
+  "date": "2026-11-13",
+  "sources": [
+    {
+      "name": "jpmorgan",
+      "employer": "JPMorgan Chase",
+      "ats": "oracle",
+      "search": "analyst",
+      "ok": true,
+      "count": 1003,
+      "error": "",
+      "requests": 11,
+      "seconds": 11.6
+    },
+    {
+      "name": "bank-of-america",
+      "employer": "Bank of America",
+      "ats": "workday",
+      "search": "",
+      "ok": true,
+      "count": 1976,
+      "error": "",
+      "requests": 198,
+      "seconds": 145.2
+    },
+    {
+      "name": "wells-fargo",
+      "employer": "Wells Fargo",
+      "ats": "workday",
+      "search": "",
+      "ok": true,
+      "count": 1474,
+      "error": "",
+      "requests": 74,
+      "seconds": 79.2
+    },
+    {
+      "name": "morgan-stanley",
+      "employer": "Morgan Stanley",
+      "ats": "workday",
+      "search": "",
+      "ok": true,
+      "count": 1176,
+      "error": "",
+      "requests": 59,
+      "seconds": 52.6
+    },
+    {
+      "name": "capital-one",
+      "employer": "Capital One",
+      "ats": "workday",
+      "search": "",
+      "ok": true,
+      "count": 2055,
+      "error": "",
+      "requests": 103,
+      "seconds": 25.6
+    },
+    {
+      "name": "us-bank",
+      "employer": "U.S. Bank",
+      "ats": "workday",
+      "search": "",
+      "ok": true,
+      "count": 1200,
+      "error": "",
+      "requests": 122,
+      "seconds": 127.4
+    },
+    {
+      "name": "state-street",
+      "employer": "State Street",
+      "ats": "workday",
+      "search": "",
+      "ok": true,
+      "count": 1185,
+      "error": "",
+      "requests": 60,
+      "seconds": 43.2
+    },
+    {
+      "name": "northern-trust",
+      "employer": "Northern Trust",
+      "ats": "workday",
+      "search": "",
+      "ok": true,
+      "count": 648,
+      "error": "",
+      "requests": 33,
+      "seconds": 22.8
+    },
+    {
+      "name": "fidelity",
+      "employer": "Fidelity Investments",
+      "ats": "workday",
+      "search": "",
+      "ok": true,
+      "count": 895,
+      "error": "",
+      "requests": 45,
+      "seconds": 39.8
+    },
+    {
+      "name": "blackrock",
+      "employer": "BlackRock",
+      "ats": "workday",
+      "search": "",
+      "ok": true,
+      "count": 281,
+      "error": "",
+      "requests": 15,
+      "seconds": 6.3
+    },
+    {
+      "name": "mastercard",
+      "employer": "Mastercard",
+      "ats": "workday",
+      "search": "",
+      "ok": true,
+      "count": 858,
+      "error": "",
+      "requests": 43,
+      "seconds": 45.7
+    },
+    {
+      "name": "sp-global",
+      "employer": "S&P Global",
+      "ats": "workday",
+      "search": "",
+      "ok": true,
+      "count": 336,
+      "error": "",
+      "requests": 17,
+      "seconds": 16.8
+    },
+    {
+      "name": "stripe",
+      "employer": "Stripe",
+      "ats": "greenhouse",
+      "search": "",
+      "ok": true,
+      "count": 788,
+      "error": "",
+      "requests": 2,
+      "seconds": 5.3
+    },
+    {
+      "name": "coinbase",
+      "employer": "Coinbase",
+      "ats": "greenhouse",
+      "search": "",
+      "ok": true,
+      "count": 265,
+      "error": "",
+      "requests": 2,
+      "seconds": 0.1
+    },
+    {
+      "name": "robinhood",
+      "employer": "Robinhood",
+      "ats": "greenhouse",
+      "search": "",
+      "ok": true,
+      "count": 160,
+      "error": "",
+      "requests": 2,
+      "seconds": 0.1
+    },
+    {
+      "name": "point72",
+      "employer": "Point72",
+      "ats": "greenhouse",
+      "search": "",
+      "ok": true,
+      "count": 200,
+      "error": "",
+      "requests": 2,
+      "seconds": 0.1
+    },
+    {
+      "name": "ramp",
+      "employer": "Ramp",
+      "ats": "ashby",
+      "search": "",
+      "ok": true,
+      "count": 180,
+      "error": "",
+      "requests": 1,
+      "seconds": 0.2
+    },
+    {
+      "name": "plaid",
+      "employer": "Plaid",
+      "ats": "ashby",
+      "search": "",
+      "ok": true,
+      "count": 141,
+      "error": "",
+      "requests": 1,
+      "seconds": 0.1
+    },
+    {
+      "name": "palantir",
+      "employer": "Palantir",
+      "ats": "lever",
+      "search": "",
+      "ok": true,
+      "count": 301,
+      "error": "",
+      "requests": 1,
+      "seconds": 0.9
+    },
+    {
+      "name": "experian",
+      "employer": "Experian",
+      "ats": "smartrecruiters",
+      "search": "",
+      "ok": true,
+      "count": 387,
+      "error": "",
+      "requests": 4,
+      "seconds": 1.8
+    }
+  ]
+}
