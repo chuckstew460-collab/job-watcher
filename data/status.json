@@ -1,14 +1,14 @@
 {
-  "run_time": "2026-11-14T17:58:17Z",
-  "run_date": "2026-11-14",
+  "run_time": "2026-11-15T18:48:15Z",
+  "run_date": "2026-11-15",
   "first_run_date": "2026-11-09",
-  "days_with_success": 6,
-  "open": 15476,
-  "new_today": 209,
-  "removed_today": 266,
+  "days_with_success": 7,
+  "open": 15330,
+  "new_today": 6,
+  "removed_today": 155,
   "in_role": {
-    "open": 210,
-    "new_today": 2,
+    "open": 207,
+    "new_today": 1,
     "removed_today": 4
   },
   "sources": [
@@ -33,7 +33,7 @@
       "employer": "Wells Fargo",
       "ats": "workday",
       "ok": true,
-      "count": 1427,
+      "count": 1356,
       "error": ""
     },
     {
@@ -57,7 +57,7 @@
       "employer": "U.S. Bank",
       "ats": "workday",
       "ok": true,
-      "count": 1189,
+      "count": 1164,
       "error": ""
     },
     {
@@ -65,7 +65,7 @@
       "employer": "State Street",
       "ats": "workday",
       "ok": true,
-      "count": 1179,
+      "count": 1164,
       "error": ""
     },
     {
@@ -73,7 +73,7 @@
       "employer": "Northern Trust",
       "ats": "workday",
       "ok": true,
-      "count": 651,
+      "count": 639,
       "error": ""
     },
     {
@@ -81,7 +81,7 @@
       "employer": "Fidelity Investments",
       "ats": "workday",
       "ok": true,
-      "count": 895,
+      "count": 889,
       "error": ""
     },
     {
@@ -89,7 +89,7 @@
       "employer": "BlackRock",
       "ats": "workday",
       "ok": true,
-      "count": 276,
+      "count": 271,
       "error": ""
     },
     {
@@ -97,7 +97,7 @@
       "employer": "Mastercard",
       "ats": "workday",
       "ok": true,
-      "count": 848,
+      "count": 842,
       "error": ""
     },
     {
@@ -105,7 +105,7 @@
       "employer": "S&P Global",
       "ats": "workday",
       "ok": true,
-      "count": 339,
+      "count": 335,
       "error": ""
     },
     {
@@ -113,7 +113,7 @@
       "employer": "Stripe",
       "ats": "greenhouse",
       "ok": true,
-      "count": 786,
+      "count": 785,
       "error": ""
     },
     {
@@ -169,7 +169,7 @@
       "employer": "Experian",
       "ats": "smartrecruiters",
       "ok": true,
-      "count": 390,
+      "count": 389,
       "error": ""
     }
   ]
