@@ -1,15 +1,15 @@
 {
-  "run_time": "2026-11-15T18:48:15Z",
-  "run_date": "2026-11-15",
+  "run_time": "2026-11-16T21:58:09Z",
+  "run_date": "2026-11-16",
   "first_run_date": "2026-11-09",
-  "days_with_success": 7,
-  "open": 15330,
-  "new_today": 6,
-  "removed_today": 155,
+  "days_with_success": 8,
+  "open": 15299,
+  "new_today": 222,
+  "removed_today": 307,
   "in_role": {
-    "open": 207,
-    "new_today": 1,
-    "removed_today": 4
+    "open": 209,
+    "new_today": 3,
+    "removed_today": 1
   },
   "sources": [
     {
@@ -17,103 +17,103 @@
       "employer": "JPMorgan Chase",
       "ats": "oracle",
       "ok": true,
-      "count": 993,
+      "count": 998,
       "error": ""
     },
     {
       "name": "bank-of-america",
       "employer": "Bank of America",
       "ats": "workday",
-      "ok": true,
-      "count": 2009,
-      "error": ""
+      "ok": false,
+      "count": 0,
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://ghr.wd1.myworkdayjobs.com/wday/cxs/ghr/lateral-us/jobs"
     },
     {
       "name": "wells-fargo",
       "employer": "Wells Fargo",
       "ats": "workday",
       "ok": true,
-      "count": 1356,
+      "count": 1321,
       "error": ""
     },
     {
       "name": "morgan-stanley",
       "employer": "Morgan Stanley",
       "ats": "workday",
-      "ok": true,
-      "count": 1179,
-      "error": ""
+      "ok": false,
+      "count": 0,
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://ms.wd5.myworkdayjobs.com/wday/cxs/ms/External/jobs"
     },
     {
       "name": "capital-one",
       "employer": "Capital One",
       "ats": "workday",
-      "ok": true,
-      "count": 2061,
-      "error": ""
+      "ok": false,
+      "count": 0,
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://capitalone.wd12.myworkdayjobs.com/wday/cxs/capitalone/Capital_One/jobs"
     },
     {
       "name": "us-bank",
       "employer": "U.S. Bank",
       "ats": "workday",
-      "ok": true,
-      "count": 1164,
-      "error": ""
+      "ok": false,
+      "count": 0,
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://usbank.wd1.myworkdayjobs.com/wday/cxs/usbank/US_Bank_Careers/jobs"
     },
     {
       "name": "state-street",
       "employer": "State Street",
       "ats": "workday",
-      "ok": true,
-      "count": 1164,
-      "error": ""
+      "ok": false,
+      "count": 0,
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://statestreet.wd1.myworkdayjobs.com/wday/cxs/statestreet/Global/jobs"
     },
     {
       "name": "northern-trust",
       "employer": "Northern Trust",
       "ats": "workday",
-      "ok": true,
-      "count": 639,
-      "error": ""
+      "ok": false,
+      "count": 0,
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://ntrs.wd1.myworkdayjobs.com/wday/cxs/ntrs/northerntrust/jobs"
     },
     {
       "name": "fidelity",
       "employer": "Fidelity Investments",
       "ats": "workday",
-      "ok": true,
-      "count": 889,
-      "error": ""
+      "ok": false,
+      "count": 0,
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://fmr.wd1.myworkdayjobs.com/wday/cxs/fmr/FidelityCareers/jobs"
     },
     {
       "name": "blackrock",
       "employer": "BlackRock",
       "ats": "workday",
-      "ok": true,
-      "count": 271,
-      "error": ""
+      "ok": false,
+      "count": 0,
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://blackrock.wd1.myworkdayjobs.com/wday/cxs/blackrock/BlackRock_Professional/jobs"
     },
     {
       "name": "mastercard",
       "employer": "Mastercard",
       "ats": "workday",
-      "ok": true,
-      "count": 842,
-      "error": ""
+      "ok": false,
+      "count": 0,
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://mastercard.wd1.myworkdayjobs.com/wday/cxs/mastercard/CorporateCareers/jobs"
     },
     {
       "name": "sp-global",
       "employer": "S&P Global",
       "ats": "workday",
-      "ok": true,
-      "count": 335,
-      "error": ""
+      "ok": false,
+      "count": 0,
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://spgi.wd5.myworkdayjobs.com/wday/cxs/spgi/SPGI_Careers/jobs"
     },
     {
       "name": "stripe",
       "employer": "Stripe",
       "ats": "greenhouse",
       "ok": true,
-      "count": 785,
+      "count": 789,
       "error": ""
     },
     {
@@ -121,7 +121,7 @@
       "employer": "Coinbase",
       "ats": "greenhouse",
       "ok": true,
-      "count": 265,
+      "count": 262,
       "error": ""
     },
     {
@@ -129,7 +129,7 @@
       "employer": "Robinhood",
       "ats": "greenhouse",
       "ok": true,
-      "count": 165,
+      "count": 166,
       "error": ""
     },
     {
@@ -137,7 +137,7 @@
       "employer": "Point72",
       "ats": "greenhouse",
       "ok": true,
-      "count": 200,
+      "count": 196,
       "error": ""
     },
     {
@@ -145,7 +145,7 @@
       "employer": "Ramp",
       "ats": "ashby",
       "ok": true,
-      "count": 180,
+      "count": 177,
       "error": ""
     },
     {
@@ -161,7 +161,7 @@
       "employer": "Palantir",
       "ats": "lever",
       "ok": true,
-      "count": 302,
+      "count": 303,
       "error": ""
     },
     {
@@ -169,7 +169,7 @@
       "employer": "Experian",
       "ats": "smartrecruiters",
       "ok": true,
-      "count": 389,
+      "count": 392,
       "error": ""
     }
   ]
