@@ -1,14 +1,14 @@
 {
-  "run_time": "2026-11-16T21:58:09Z",
-  "run_date": "2026-11-16",
+  "run_time": "2026-11-17T20:51:27Z",
+  "run_date": "2026-11-17",
   "first_run_date": "2026-11-09",
-  "days_with_success": 8,
-  "open": 15299,
-  "new_today": 222,
-  "removed_today": 307,
+  "days_with_success": 9,
+  "open": 15366,
+  "new_today": 232,
+  "removed_today": 211,
   "in_role": {
-    "open": 209,
-    "new_today": 3,
+    "open": 210,
+    "new_today": 2,
     "removed_today": 1
   },
   "sources": [
@@ -17,7 +17,7 @@
       "employer": "JPMorgan Chase",
       "ats": "oracle",
       "ok": true,
-      "count": 998,
+      "count": 996,
       "error": ""
     },
     {
@@ -33,7 +33,7 @@
       "employer": "Wells Fargo",
       "ats": "workday",
       "ok": true,
-      "count": 1321,
+      "count": 1396,
       "error": ""
     },
     {
@@ -121,7 +121,7 @@
       "employer": "Coinbase",
       "ats": "greenhouse",
       "ok": true,
-      "count": 262,
+      "count": 259,
       "error": ""
     },
     {
@@ -137,7 +137,7 @@
       "employer": "Point72",
       "ats": "greenhouse",
       "ok": true,
-      "count": 196,
+      "count": 199,
       "error": ""
     },
     {
@@ -145,7 +145,7 @@
       "employer": "Ramp",
       "ats": "ashby",
       "ok": true,
-      "count": 177,
+      "count": 181,
       "error": ""
     },
     {
@@ -153,7 +153,7 @@
       "employer": "Plaid",
       "ats": "ashby",
       "ok": true,
-      "count": 142,
+      "count": 141,
       "error": ""
     },
     {
@@ -161,7 +161,7 @@
       "employer": "Palantir",
       "ats": "lever",
       "ok": true,
-      "count": 303,
+      "count": 301,
       "error": ""
     },
     {
@@ -169,7 +169,7 @@
       "employer": "Experian",
       "ats": "smartrecruiters",
       "ok": true,
-      "count": 392,
+      "count": 385,
       "error": ""
     }
   ]
