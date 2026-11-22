@@ -1,15 +1,15 @@
 {
-  "run_time": "2026-11-21T19:11:01Z",
-  "run_date": "2026-11-21",
+  "run_time": "2026-11-22T19:33:06Z",
+  "run_date": "2026-11-22",
   "first_run_date": "2026-11-09",
-  "days_with_success": 13,
-  "open": 15503,
-  "new_today": 73,
-  "removed_today": 125,
+  "days_with_success": 14,
+  "open": 15443,
+  "new_today": 5,
+  "removed_today": 67,
   "in_role": {
     "open": 200,
     "new_today": 0,
-    "removed_today": 1
+    "removed_today": 0
   },
   "sources": [
     {
@@ -33,7 +33,7 @@
       "employer": "Wells Fargo",
       "ats": "workday",
       "ok": true,
-      "count": 1542,
+      "count": 1483,
       "error": ""
     },
     {
@@ -113,7 +113,7 @@
       "employer": "Stripe",
       "ats": "greenhouse",
       "ok": true,
-      "count": 778,
+      "count": 777,
       "error": ""
     },
     {

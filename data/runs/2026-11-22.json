@@ -1,0 +1,226 @@
+{
+  "run_time": "2026-11-22T19:33:06Z",
+  "date": "2026-11-22",
+  "sources": [
+    {
+      "name": "jpmorgan",
+      "employer": "JPMorgan Chase",
+      "ats": "oracle",
+      "search": "analyst",
+      "ok": true,
+      "count": 968,
+      "error": "",
+      "requests": 10,
+      "seconds": 10.0
+    },
+    {
+      "name": "bank-of-america",
+      "employer": "Bank of America",
+      "ats": "workday",
+      "search": "",
+      "ok": false,
+      "count": 0,
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://ghr.wd1.myworkdayjobs.com/wday/cxs/ghr/lateral-us/jobs",
+      "requests": 0,
+      "seconds": 14.4
+    },
+    {
+      "name": "wells-fargo",
+      "employer": "Wells Fargo",
+      "ats": "workday",
+      "search": "",
+      "ok": true,
+      "count": 1483,
+      "error": "",
+      "requests": 75,
+      "seconds": 65.9
+    },
+    {
+      "name": "morgan-stanley",
+      "employer": "Morgan Stanley",
+      "ats": "workday",
+      "search": "",
+      "ok": false,
+      "count": 0,
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://ms.wd5.myworkdayjobs.com/wday/cxs/ms/External/jobs",
+      "requests": 10,
+      "seconds": 28.2
+    },
+    {
+      "name": "capital-one",
+      "employer": "Capital One",
+      "ats": "workday",
+      "search": "",
+      "ok": false,
+      "count": 0,
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://capitalone.wd12.myworkdayjobs.com/wday/cxs/capitalone/Capital_One/jobs",
+      "requests": 5,
+      "seconds": 15.5
+    },
+    {
+      "name": "us-bank",
+      "employer": "U.S. Bank",
+      "ats": "workday",
+      "search": "",
+      "ok": false,
+      "count": 0,
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://usbank.wd1.myworkdayjobs.com/wday/cxs/usbank/US_Bank_Careers/jobs",
+      "requests": 1,
+      "seconds": 21.8
+    },
+    {
+      "name": "state-street",
+      "employer": "State Street",
+      "ats": "workday",
+      "search": "",
+      "ok": false,
+      "count": 0,
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://statestreet.wd1.myworkdayjobs.com/wday/cxs/statestreet/Global/jobs",
+      "requests": 0,
+      "seconds": 14.3
+    },
+    {
+      "name": "northern-trust",
+      "employer": "Northern Trust",
+      "ats": "workday",
+      "search": "",
+      "ok": false,
+      "count": 0,
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://ntrs.wd1.myworkdayjobs.com/wday/cxs/ntrs/northerntrust/jobs",
+      "requests": 0,
+      "seconds": 14.3
+    },
+    {
+      "name": "fidelity",
+      "employer": "Fidelity Investments",
+      "ats": "workday",
+      "search": "",
+      "ok": false,
+      "count": 0,
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://fmr.wd1.myworkdayjobs.com/wday/cxs/fmr/FidelityCareers/jobs",
+      "requests": 0,
+      "seconds": 14.4
+    },
+    {
+      "name": "blackrock",
+      "employer": "BlackRock",
+      "ats": "workday",
+      "search": "",
+      "ok": false,
+      "count": 0,
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://blackrock.wd1.myworkdayjobs.com/wday/cxs/blackrock/BlackRock_Professional/jobs",
+      "requests": 0,
+      "seconds": 14.3
+    },
+    {
+      "name": "mastercard",
+      "employer": "Mastercard",
+      "ats": "workday",
+      "search": "",
+      "ok": false,
+      "count": 0,
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://mastercard.wd1.myworkdayjobs.com/wday/cxs/mastercard/CorporateCareers/jobs",
+      "requests": 0,
+      "seconds": 14.3
+    },
+    {
+      "name": "sp-global",
+      "employer": "S&P Global",
+      "ats": "workday",
+      "search": "",
+      "ok": false,
+      "count": 0,
+      "error": "HTTPError: 429 Client Error: Too Many Requests for url: https://spgi.wd5.myworkdayjobs.com/wday/cxs/spgi/SPGI_Careers/jobs",
+      "requests": 3,
+      "seconds": 22.9
+    },
+    {
+      "name": "stripe",
+      "employer": "Stripe",
+      "ats": "greenhouse",
+      "search": "",
+      "ok": true,
+      "count": 777,
+      "error": "",
+      "requests": 2,
+      "seconds": 10.2
+    },
+    {
+      "name": "coinbase",
+      "employer": "Coinbase",
+      "ats": "greenhouse",
+      "search": "",
+      "ok": true,
+      "count": 252,
+      "error": "",
+      "requests": 2,
+      "seconds": 0.1
+    },
+    {
+      "name": "robinhood",
+      "employer": "Robinhood",
+      "ats": "greenhouse",
+      "search": "",
+      "ok": true,
+      "count": 163,
+      "error": "",
+      "requests": 2,
+      "seconds": 0.2
+    },
+    {
+      "name": "point72",
+      "employer": "Point72",
+      "ats": "greenhouse",
+      "search": "",
+      "ok": true,
+      "count": 202,
+      "error": "",
+      "requests": 2,
+      "seconds": 0.2
+    },
+    {
+      "name": "ramp",
+      "employer": "Ramp",
+      "ats": "ashby",
+      "search": "",
+      "ok": true,
+      "count": 187,
+      "error": "",
+      "requests": 1,
+      "seconds": 0.2
+    },
+    {
+      "name": "plaid",
+      "employer": "Plaid",
+      "ats": "ashby",
+      "search": "",
+      "ok": true,
+      "count": 147,
+      "error": "",
+      "requests": 1,
+      "seconds": 0.1
+    },
+    {
+      "name": "palantir",
+      "employer": "Palantir",
+      "ats": "lever",
+      "search": "",
+      "ok": true,
+      "count": 308,
+      "error": "",
+      "requests": 1,
+      "seconds": 0.7
+    },
+    {
+      "name": "experian",
+      "employer": "Experian",
+      "ats": "smartrecruiters",
+      "search": "",
+      "ok": true,
+      "count": 403,
+      "error": "",
+      "requests": 5,
+      "seconds": 2.4
+    }
+  ]
+}
