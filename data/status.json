@@ -1,13 +1,13 @@
 {
-  "run_time": "2026-11-26T21:28:03Z",
-  "run_date": "2026-11-26",
+  "run_time": "2026-11-27T21:13:03Z",
+  "run_date": "2026-11-27",
   "first_run_date": "2026-11-09",
-  "days_with_success": 18,
-  "open": 15496,
-  "new_today": 53,
-  "removed_today": 121,
+  "days_with_success": 19,
+  "open": 15356,
+  "new_today": 57,
+  "removed_today": 212,
   "in_role": {
-    "open": 195,
+    "open": 197,
     "new_today": 2,
     "removed_today": 1
   },
@@ -17,7 +17,7 @@
       "employer": "JPMorgan Chase",
       "ats": "oracle",
       "ok": true,
-      "count": 956,
+      "count": 961,
       "error": ""
     },
     {
@@ -33,7 +33,7 @@
       "employer": "Wells Fargo",
       "ats": "workday",
       "ok": true,
-      "count": 1550,
+      "count": 1409,
       "error": ""
     },
     {
@@ -113,7 +113,7 @@
       "employer": "Stripe",
       "ats": "greenhouse",
       "ok": true,
-      "count": 768,
+      "count": 771,
       "error": ""
     },
     {
@@ -129,7 +129,7 @@
       "employer": "Robinhood",
       "ats": "greenhouse",
       "ok": true,
-      "count": 162,
+      "count": 161,
       "error": ""
     },
     {
@@ -169,7 +169,7 @@
       "employer": "Experian",
       "ats": "smartrecruiters",
       "ok": true,
-      "count": 419,
+      "count": 413,
       "error": ""
     }
   ]
